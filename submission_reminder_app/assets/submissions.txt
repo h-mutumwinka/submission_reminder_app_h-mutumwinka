@@ -1,8 +1,8 @@
 student, assignment, submission status
 here, Shell Navigation, submitted
 Noel, Shell Navigation, not submitted
-Jacky, Shell Navigation,not submitted
-Batoni, Shell Navigation,  submitted
-lisa, Shell Navigation, not submitted
-Hero, Shell Navigation, submitted
-carla, Shell Navigation, not submitted
+Jacky,Shell Navigation,not submitted
+Batoni,Shell Navigation,submitted
+lisa,Shell Navigation,not submitted
+Hero,Shell Navigation,submitted
+carla,Shell Navigation,not submitted
