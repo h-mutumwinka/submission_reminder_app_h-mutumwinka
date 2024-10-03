@@ -1,5 +1,7 @@
 #!/bin/bash
 
-echo "Starting the reminder application..."
-source submission_reminder_app/config/config.env
-bash submission_reminder_app/scripts/reminder.sh
+script_dir="$(dirname "$0")"
+
+echo "Be ready for the reminder startup application"
+
+"$script_dir/app/reminder.sh"
